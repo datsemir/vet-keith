@@ -3,7 +3,7 @@ This is my modified KEITHSDR to work with the VeteranSDR.
 Some of the change is listed below.
 regards Claus OZ2IE
 
-Some of the dir in the SDR_RA8875 are removed to reduce size, you can find the missing dir from the origin SDR_RA8875 in the KEITHSDR project.
+Some of the dir in the SDR_RA8875 are removed to reduce size, you can find the missing dir from the origin SDR_RA8875 in the KEITHSDR project. K7MDL2/KEITHSDR
 
 si570 is a modified driver trying to eliminate click when changing frequency.
 
